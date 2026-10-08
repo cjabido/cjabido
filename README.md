@@ -48,7 +48,7 @@ The Cyberdeck replaces the Steam Deck's home screen with a gamepad-driven consol
 
 ## Bus Tracker
 
-**Is the 156R ever on time? Scheduled versus actual arrivals at one stop.**
+**Is the 142 bus ever on time? Scheduled versus actual arrivals at one stop.**
 
 Every weekday morning a Selenium scraper saves NJ Transit's posted arrival times for my stop into PostgreSQL with TimescaleDB. On my phone, an offline-first web app records when each bus actually shows up, keeps those records in IndexedDB while I'm at the stop, and syncs them once I'm back on home Wi-Fi. The server matches each actual arrival to its scheduled one, so over time the data shows how late the route really runs.
 

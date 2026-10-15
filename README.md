@@ -4,6 +4,18 @@ I build software for my own home and habits: a speaker that remembers what it pl
 
 [carljabido.dev](https://carljabido.dev)
 
+## Home Agent
+
+**One agent, every room: where the projects below are heading.**
+
+A one-minute reel of how these pieces come together. A home agent fronts every app as a tool, composes screens on the Apple TV on the fly, and answers on whichever display is nearest, found by the watch I'm already wearing. It covers what's built, what lands next, and what an always-on agent could add on top.
+
+<sub>Interactive reel · Apple TV · MCP · private repos</sub>
+
+<a href="https://cjabido.github.io/cjabido/home-agent/"><img src="img/home-agent/01-title.webp" alt="Title card of the Home Agent reel: One agent. Every room." width="800"></a>
+
+**[▶ Watch the reel](https://cjabido.github.io/cjabido/home-agent/)**
+
 ## Sonos Dashboard
 
 **Everything my Sonos speaker plays, logged, charted and shown on an e-paper screen.**
